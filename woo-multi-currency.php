@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Multi Currency for WooCommerce
- * Plugin URI: https://villatheme.com/extensions/woo-multi-currency/
+ * Plugin Name: NexGi Multi Currency for WooCommerce
+ * Plugin URI: https://www.nexgi.com/wordpress-plugins/nexgi-multi-currency-for-woocommerce/
  * Description: Allows to display prices and accepts payments in multiple currencies. Working only with WooCommerce.
- * Version: 2.1.5.5
- * Author: VillaTheme
- * Author URI: http://villatheme.com
- * Copyright 2016-2018 VillaTheme.com. All rights reserved.
+ * Version: 4.1.5.5
+ * Author: NexGen WordPress Development Team
+ * Author URI: https://www.nexgi.com
+ * Copyright 20120 NexGi.com. All rights reserved.
  * Text-domain: woo-multi-currency
  * Tested up to: 5.4
  * WC requires at least: 3.2.0
